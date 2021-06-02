@@ -3,8 +3,14 @@
 </template>
 
 <script>
+import MapLoader from "@/components/common/MapLoader";
+
 export default {
-  name: "MapView"
+  name: "MapView",
+  components: {
+    MapLoader,
+
+  }
 }
 </script>
 
