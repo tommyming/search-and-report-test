@@ -1,10 +1,10 @@
 <template>
-
+  <button @click="lookup">Go!</button>
 </template>
 
 <script>
 export default {
-  name: "Start"
+  name: "Button-Go"
 }
 </script>
 

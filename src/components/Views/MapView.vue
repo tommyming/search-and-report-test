@@ -1,10 +1,10 @@
 <template>
-
+<h1>Hello World</h1>
 </template>
 
 <script>
 export default {
-  name: "Button-Go"
+  name: "MapView"
 }
 </script>
 
